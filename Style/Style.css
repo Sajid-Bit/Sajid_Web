@@ -595,7 +595,7 @@ section {
 }
 
 .about .image {
-  background: url("img/sajid.jpg") center center no-repeat;
+  background: url("./img/sajid.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
